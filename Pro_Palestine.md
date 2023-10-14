@@ -49,7 +49,7 @@
 |GhostSec|https://t.me/GhostSecc|||
 |WeedSec|https://t.me/weedforumslol|||
 |Boom Security|https://t.me/BoomSecOfficial2023 https://t.me/chatboomsecurity2023|||
-|END SODOMA||||
+|END SODOMA| https://t.me/endsodoma|||
 |Bangladesh Civilian Force||||
 |Pakistan Cyber Hunter|https://t.me/PakistanCyberArmyOfficial|||
 |./TeaParty|https://t.me/TeaPartyWasHere|||
@@ -77,3 +77,4 @@
 |Moroccan Defenders Group|https://t.me/Saharahackers|||
 |Teng Korak Cyber Crew|https://t.me/tengkorakcybercrewz https://t.me/tengkorakcybercrew|||
 |Islamic Cyber team Indonesia|https://t.me/islamiccyberteam|||
+|Esteem Restoration Eagle|https://t.me/esteemrestorationeagle|||
