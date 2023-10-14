@@ -50,7 +50,7 @@
 |WeedSec|https://t.me/weedforumslol|||
 |Boom Security|https://t.me/BoomSecOfficial2023 https://t.me/chatboomsecurity2023|||
 |END SODOMA| https://t.me/endsodoma|||
-|Bangladesh Civilian Force||||
+|Bangladesh Civilian Force|||Twitter: @civilian_force|
 |Pakistan Cyber Hunter|https://t.me/PakistanCyberArmyOfficial|||
 |./TeaParty|https://t.me/TeaPartyWasHere|||
 |ASKAR DDOS|https://t.me/AskarDDOS|||
