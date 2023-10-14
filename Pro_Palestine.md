@@ -49,7 +49,7 @@
 |GhostSec|https://t.me/GhostSecc|||
 |WeedSec|https://t.me/weedforumslol|||
 |Boom Security|https://t.me/BoomSecOfficial2023 https://t.me/chatboomsecurity2023|||
-|End Sodama||||
+|END SODOMA||||
 |Bangladesh Civilian Force||||
 |Pakistan Cyber Hunter|https://t.me/PakistanCyberArmyOfficial|||
 |./TeaParty|https://t.me/TeaPartyWasHere|||
@@ -58,16 +58,16 @@
 |Dragonforce Malaysia|https://t.me/dragonforceio|||
 |JATIM RedStorm Xploit|https://t.me/jatimredstormxploit|||
 |Ghosts of Palestine|https://t.me/GhostPalestine https://t.me/GHOSTSPalestine|||
-|Team Azrael Angel of Death||||
+|Team Azrael Angel of Death|||Twitter: @Team_Azrael|
 |Dark Storm Team|https://t.me/dark_storm_team|||
-|Pakistani Leet Hackers||||
+|Pakistani Leet Hackers|||Twitter: @Team_insane_pk1|
 |Sylhet Gang-SG|https://t.me/SylhetGangSgOfficial|||
 |Team_insane_Pakistan|https://t.me/Team_insane_Pakistan1 https://t.me/Team_insane_Pakistan||Twitter: @Team_insane_pk1|
 |Hacktivism Indonesia||||
 |Garnesia Team|https://t.me/garnesiateam https://t.me/garnesiateam02 https://t.me/garnesiateam2|||
 |Blackshieldcrew MY||||
 |Gb Anon 17|https://t.me/revolusigbanon17|||
-|Anonymous Morocco||||
+|Anonymous Morocco|||Twitter: @AnonSecMA|
 |Ghost Clan Malaysia|https://t.me/lcmysecteamch|||
 |Storm-1133||||
 |Cyb3r Drag0nz|https://t.me/Cyb3r_Drag0nz https://t.me/Cyb3r_Drag0ns|||
