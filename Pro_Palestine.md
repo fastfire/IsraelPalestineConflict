@@ -64,16 +64,16 @@
 |Sylhet Gang-SG||||
 |Team_insane_Pakistan|https://t.me/Team_insane_Pakistan1 https://t.me/Team_insane_Pakistan|||
 |Hacktivism Indonesia||||
-|Garnesia Team||||
+|Garnesia Team|https://t.me/garnesiateam https://t.me/garnesiateam02 https://t.me/garnesiateam2|||
 |Blackshieldcrew MY||||
-|Gb Anon 17||||
+|Gb Anon 17|https://t.me/revolusigbanon17|||
 |Anonymous Morocco||||
-|Ghost Clan Malaysia||||
+|Ghost Clan Malaysia|https://t.me/lcmysecteamch|||
 |Storm-1133||||
-|Cyb3r Drag0nz||||
-|Black Security Team||||
-|Arab Anonymous Team||||
+|Cyb3r Drag0nz|https://t.me/Cyb3r_Drag0nz https://t.me/Cyb3r_Drag0ns|||
+|Black Security Team|https://t.me/Black_Security|||
+|Arab Anonymous Team|https://t.me/ArabAnonForce|||
 |Russian tools||||
-|Moroccan Defenders Group||||
+|Moroccan Defenders Group|https://t.me/Saharahackers|||
 |Teng Korak Cyber Crew||||
-|Islamic Cyber team Indonesia||||
+|Islamic Cyber team Indonesia|https://t.me/islamiccyberteam|||
