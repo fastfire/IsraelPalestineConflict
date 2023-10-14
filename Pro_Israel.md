@@ -1,11 +1,11 @@
 |TA name|Telegram|Website|Other info|
 | ------ | ------ | ------ | ------ |
-|GonjeshkeDrande||||
-|Indian Cyber Force||||
+|GonjeshkeDrande|https://t.me/GonjeshkeDarand|||
+|Indian Cyber Force|https://t.me/INDIAN_CYBER_FORCE|||
 |UCC Team||||
 |Garuna Ops||||
 |SilentOne||||
-|IT ARMY of Ukraine||||
+|IT ARMY of Ukraine|https://t.me/itarmyofukraine2022|||
 |Termus Israel||||
 |Cyber Club||||
 |Anonymous Israel||||
