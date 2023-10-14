@@ -61,8 +61,8 @@
 |Team Azrael Angel of Death||||
 |Dark Storm Team|https://t.me/dark_storm_team|||
 |Pakistani Leet Hackers||||
-|Sylhet Gang-SG||||
-|Team_insane_Pakistan|https://t.me/Team_insane_Pakistan1 https://t.me/Team_insane_Pakistan|||
+|Sylhet Gang-SG|https://t.me/SylhetGangSgOfficial|||
+|Team_insane_Pakistan|https://t.me/Team_insane_Pakistan1 https://t.me/Team_insane_Pakistan||Twitter: @Team_insane_pk1|
 |Hacktivism Indonesia||||
 |Garnesia Team|https://t.me/garnesiateam https://t.me/garnesiateam02 https://t.me/garnesiateam2|||
 |Blackshieldcrew MY||||
