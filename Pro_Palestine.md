@@ -1,9 +1,9 @@
 |TA name|Telegram|Website|Other info|
 | ------ | ------ | ------ | ------ |
 |Killnet Palestine|https://t.me/Killnet_Palestine|||
-|Killnet||||
+|Killnet|https://t.me/killnet_reservs|||
 |Anonymous Sudan|https://t.me/AnonymousSudan|||
-|UserSec||||
+|UserSec|https://t.me/usersec_collective|||
 |Anonymous Russia|https://t.me/anon_by|||
 |Mysterious Team Bangladesh|https://t.me/MysteriousTeam0|||
 |Ganosec team|https://t.me/ganosecteam https://t.me/fakesec666|||
@@ -11,8 +11,8 @@
 |Muslim Cyber Army|https://t.me/MuslimCyberArmyMY https://t.me/MuslimCyberArmy1|||
 |GhostClan|https://t.me/GhostClanOfficial|||
 |Eagle Cyber Crew|https://t.me/eaglecyberwashere https://t.me/EAGLECYBER999|||
-|YourAnon T13x||||
-|Team Herox||||
+|YourAnon T13x|https://t.me/YourAnonTl3x||Twitter: @YourAnonTl3x|
+|Team Herox|https://t.me/Team_Herox_Official|||
 |SynixCyberCrimeMY|https://t.me/SynixCyberCrimeMy|||
 |Panoc team|https://t.me/panoc_team https://t.me/panocteam https://t.me/panoc_community|||
 |4 Exploitation|https://t.me/Exploitationn https://t.me/ExploitationnDiscuss|||
@@ -26,7 +26,7 @@
 |StarsX Team|https://t.me/StarsXTeam|||
 |Yemen Legions Team|https://t.me/legionsteam|||
 |islamic hacker army|https://t.me/ANONYMOUS_KGT https://t.me/islamic_Hacker_Army|||
-|Skynet||||
+|Skynet|https://t.me/xSkynet|||
 |Anonghost|https://t.me/AnonGhostOfficialTeam|||
 |Anonymous Indonesia|https://t.me/YourAnonIDN|||
 |malaysia cyber defacer|https://t.me/malaysiadefacers|||
@@ -42,7 +42,7 @@
 |AnonHamz|https://t.me/anonhamz|||
 |Anonymous 070|https://t.me/Anonymous_070|||
 |Vulzsec|https://t.me/vulzsec_official|||
-|Cyber Error Team||||
+|Cyber Error Team|https://t.me/cybererrorsystem|||
 |Aceh About Hacked World|https://t.me/AC3HCYBER|||
 |CyberActivism|https://t.me/barbbyofficial|||
 |KEP TEAM|https://t.me/KEP_TEAM|||
@@ -52,7 +52,7 @@
 |End Sodama||||
 |Bangladesh Civilian Force||||
 |Pakistan Cyber Hunter|https://t.me/PakistanCyberArmyOfficial|||
-|./TeaParty||||
+|./TeaParty|https://t.me/TeaPartyWasHere|||
 |ASKAR DDOS|https://t.me/AskarDDOS|||
 |Kingman world official||||
 |Dragonforce Malaysia|https://t.me/dragonforceio|||
@@ -75,5 +75,5 @@
 |Arab Anonymous Team|https://t.me/ArabAnonForce|||
 |Russian tools||||
 |Moroccan Defenders Group|https://t.me/Saharahackers|||
-|Teng Korak Cyber Crew||||
+|Teng Korak Cyber Crew|https://t.me/tengkorakcybercrewz https://t.me/tengkorakcybercrew|||
 |Islamic Cyber team Indonesia|https://t.me/islamiccyberteam|||
