@@ -78,3 +78,4 @@
 |Teng Korak Cyber Crew|https://t.me/tengkorakcybercrewz https://t.me/tengkorakcybercrew|||
 |Islamic Cyber team Indonesia|https://t.me/islamiccyberteam|||
 |Esteem Restoration Eagle|https://t.me/esteemrestorationeagle|||
+|Cyber Army of Palestine|https://t.me/CyberArmyPalestine|||
