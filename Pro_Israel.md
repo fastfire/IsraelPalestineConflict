@@ -1,7 +1,7 @@
 |TA name|Telegram|Website|Other info|
 | ------ | ------ | ------ | ------ |
 |GonjeshkeDrande|https://t.me/GonjeshkeDarand|||
-|Indian Cyber Force|https://t.me/INDIAN_CYBER_FORCE|||
+|Indian Cyber Force|https://t.me/INDIAN_CYBER_FORCE https://t.me/TeamIndianCyberForce|||
 |UCC Team|https://t.me/TEAM_UCC https://t.me/ucc_team|||
 |Garuna Ops|https://t.me/garunaops|||
 |SilentOne||||
@@ -21,3 +21,4 @@
 |Kerala Cyber Thunders|https://t.me/keralacyberthunders|||
 |Indian Darknet Association|https://t.me/oppayback2023|||
 |The Archivists Domain|https://t.me/The_Archivist_01|||
+|ThreatSec|https://t.me/ThreatSec|||
