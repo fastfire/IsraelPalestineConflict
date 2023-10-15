@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ |
 |Killnet Palestine|https://t.me/Killnet_Palestine|||
 |Killnet|https://t.me/killnet_reservs|||
-|Anonymous Sudan|https://t.me/AnonymousSudan|||
+|Anonymous Sudan|https://t.me/AnonymousSudan https://t.me/xAnonymousSudan|||
 |UserSec|https://t.me/usersec_collective|||
 |Anonymous Russia|https://t.me/anon_by|||
 |Mysterious Team Bangladesh|https://t.me/MysteriousTeam0|||
@@ -79,3 +79,7 @@
 |Islamic Cyber team Indonesia|https://t.me/islamiccyberteam|||
 |Esteem Restoration Eagle|https://t.me/esteemrestorationeagle|||
 |Cyber Army of Palestine|https://t.me/CyberArmyPalestine|||
+|Cyber Av3ngers|https://t.me/s/CyberAv3ngers|||
+|AnonGhost-Info|https://t.me/anonghostinfo|||
+|Mysterious Silent Force|https://t.me/SilentForceMTB|||
+|Krypton Networks|https://t.me/KryptonNetworks|||
