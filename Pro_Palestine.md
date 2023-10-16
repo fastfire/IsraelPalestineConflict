@@ -83,3 +83,5 @@
 |AnonGhost-Info|https://t.me/anonghostinfo|||
 |Mysterious Silent Force|https://t.me/SilentForceMTB|||
 |Krypton Networks|https://t.me/KryptonNetworks|||
+|Libyan Ghosts|https://t.me/LGH_Team|
+|KEP Team|https://t.me/KEP_TEAM|
