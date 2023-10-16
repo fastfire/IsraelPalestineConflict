@@ -36,7 +36,6 @@
 |Siegedsec|https://t.me/SiegedSecc|||
 |khalifah cybercrew|https://t.me/babatatasasa https://t.me/SAYASAYANGIKAMU|||
 |1915 Team|https://t.me/x1915x|||
-|Tyg Team|https://t.me/TYG_YE|||
 |Jateng Cyber Team|https://t.me/JatengCyberTeam01 https://t.me/JatengCyberTeam777|||
 |Systemadminbd Official (BCF)|https://t.me/systemadminbd|||
 |AnonHamz|https://t.me/anonhamz|||
@@ -59,11 +58,11 @@
 |JATIM RedStorm Xploit|https://t.me/jatimredstormxploit|||
 |Ghosts of Palestine|https://t.me/GhostPalestine https://t.me/GHOSTSPalestine|||
 |Team Azrael Angel of Death|||Twitter: @Team_Azrael|
-|Dark Storm Team|https://t.me/dark_storm_team|||
+|Dark Storm Team|https://t.me/dark_storm_team https://t.me/DarkStormTeams|||
 |Pakistani Leet Hackers|||Twitter: @Team_insane_pk1|
 |Sylhet Gang-SG|https://t.me/SylhetGangSgOfficial|||
 |Team_insane_Pakistan|https://t.me/Team_insane_Pakistan1 https://t.me/Team_insane_Pakistan||Twitter: @Team_insane_pk1|
-|Hacktivism Indonesia||||
+|Hacktivis Indonesia|https://t.me/HacktivistIndonesia|||
 |Garnesia Team|https://t.me/garnesiateam https://t.me/garnesiateam02 https://t.me/garnesiateam2|||
 |Blackshieldcrew MY||||
 |Gb Anon 17|https://t.me/revolusigbanon17|||
@@ -83,5 +82,13 @@
 |AnonGhost-Info|https://t.me/anonghostinfo|||
 |Mysterious Silent Force|https://t.me/SilentForceMTB|||
 |Krypton Networks|https://t.me/KryptonNetworks|||
-|Libyan Ghosts|https://t.me/LGH_Team|
-|KEP Team|https://t.me/KEP_TEAM|
+|Libyan Ghosts|https://t.me/LGH_Team|||
+|KEP Team|https://t.me/KEP_TEAM|||
+|X/ROOT SELLER|https://t.me/x7seller|||
+|SS CYBER Team|https://t.me/SS_CYBER_TEAM||Twitter: @SS_CYBER_TEAM|
+|DARK SCHOOL|https://t.me/dark_school_killnet_Ru|||
+|Infinity Hacker By|https://t.me/infinity_hackers_group|||
+|BLUENET RUSSIA|https://t.me/bluenettt|||
+|AnonGhost Indonesian|https://t.me/AnonGhostid|||
+|SUKOWONO BLACKHAT TEAM|https://t.me/SukowonoBlackhatTeam https://t.me/SukowonoBlackhatTeam01|
+|Ketapang Greyhat Team|https://t.me/ketapanggreyhat https://t.me/KetapangGreyHatTeam2|
