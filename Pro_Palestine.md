@@ -18,7 +18,7 @@
 |4 Exploitation|https://t.me/Exploitationn https://t.me/ExploitationnDiscuss|||
 |Team R70|https://t.me/Team_r70YEMEN https://t.me/Team_R70|||
 |Stucx Team|https://t.me/stucxteam|||
-|The White Crew||||
+|The White Crew|https://t.me/th3whitecrew|||
 |./CsCrew|https://t.me/cscrew_official https://t.me/GroupchatCs|||
 |TYG Team|https://t.me/TYG_YE|||
 |Hizbullah Cyb3r Team|https://t.me/QlaverExploitTeam|||
@@ -31,8 +31,8 @@
 |Anonymous Indonesia|https://t.me/YourAnonIDN|||
 |malaysia cyber defacer|https://t.me/malaysiadefacers|||
 |Khan cyber Army|@KhanCyberArmyBDbot|||
-|AnonTI3x Group||||
-|Team Anon Force||||
+|AnonTI3x Group|https://t.me/YourAnonTl3x|||
+|Team Anon Force|https://t.me/teamanonforce|||
 |Siegedsec|https://t.me/SiegedSecc|||
 |khalifah cybercrew|https://t.me/babatatasasa https://t.me/SAYASAYANGIKAMU|||
 |1915 Team|https://t.me/x1915x|||
