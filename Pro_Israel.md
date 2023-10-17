@@ -4,7 +4,7 @@
 |Indian Cyber Force|https://t.me/INDIAN_CYBER_FORCE https://t.me/TeamIndianCyberForce|||
 |UCC Team|https://t.me/TEAM_UCC https://t.me/ucc_team|||
 |Garuna Ops|https://t.me/garunaops|||
-|SilentOne||||
+|SilentOne|https://t.me/+mwKM1ejxnJE4OGFl https://t.me/+D2Pw4N9qXbA1N2Nl https://t[.]me/S1L3NT_0N3|||
 |IT ARMY of Ukraine|https://t.me/itarmyofukraine2022|||
 |Termux Israel|https://t.me/termuxisrael2|||
 |Cyber Club|https://t.me/CyberClubIL|||
