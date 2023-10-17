@@ -68,7 +68,7 @@
 |Gb Anon 17|https://t.me/revolusigbanon17|||
 |Anonymous Morocco|||Twitter: @AnonSecMA|
 |Ghost Clan Malaysia|https://t.me/lcmysecteamch|||
-|Storm-1133||||
+|Storm-1133|https://t.me/Storm1133Palestine|||
 |Cyb3r Drag0nz|https://t.me/Cyb3r_Drag0nz https://t.me/Cyb3r_Drag0ns|||
 |Black Security Team|https://t.me/Black_Security|||
 |Arab Anonymous Team|https://t.me/ArabAnonForce|||
