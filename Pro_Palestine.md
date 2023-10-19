@@ -94,3 +94,4 @@
 |Ketapang Greyhat Team|https://t.me/ketapanggreyhat https://t.me/KetapangGreyHatTeam2|||
 |Moses Staff|https://t.me/moses_staff_se_17 https://t.me/moseshiogt|||
 |Skynet Endsodoma Official|https://t.me/skynetboom666|||
+|Soldiers of Solomon|https://t.me/SoldiersOfSolomon|||
