@@ -23,3 +23,4 @@
 |The Archivists Domain|https://t.me/The_Archivist_01|||
 |ThreatSec|https://t.me/ThreatSec|||
 |Ransomed.vc|https://t.me/ransomed_channel https://t.me/+mZoJvuN-eVk3MzU0|||
+|WeRedEvils|https://t.me/s/RedEvilsOG|||
