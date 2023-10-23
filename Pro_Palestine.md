@@ -96,3 +96,4 @@
 |Skynet Endsodoma Official|https://t.me/skynetboom666|||
 |Soldiers of Solomon|https://t.me/SoldiersOfSolomon|||
 |IRoX Team|https://t.me/IRoX_Team|||
+|Cyber Sederhana Team|https://t.me/CSTandLUMAJANG|||
