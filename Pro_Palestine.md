@@ -108,3 +108,14 @@
 |DarkSeek Hacking Group|https://t.me/DarkSeek_rus|||
 |Fallaga Team|https://t.me/Fallaga_Team|||
 |Dark Strom Team|https://t.me/DarkStormTeams|||
+|5UL4WES1 TENG4H BL4CKHAT|https://t.me/sultengblackhat|||
+|DeadLink|https://t.me/DeadLink_Chanel|||
+|IXP666SECTEAM|https://t.me/ixp666secteam|||
+|TEAM 1956|https://t.me/team_1956|||
+|Nixon Cyber Team|https://t.me/NIXON_CYBER_TEAM|||
+|BRAVE REDSTORM EAGLE|https://t.me/braveredstormeagle|||
+|Indonesia anonymous|https://t.me/ackedindonesi|||
+|177 Members Team|https://t.me/Memberss177|||
+|NOTHWHOME OF SECURITY|https://t.me/NWMCH|||
+|Anonymous Collective|https://t.me/AnonCollective|||
+|Malaysia Cyber Defacer|https://t.me/malaysiadefacers|||
