@@ -119,3 +119,6 @@
 |NOTHWHOME OF SECURITY|https://t.me/NWMCH|||
 |Anonymous Collective|https://t.me/AnonCollective|||
 |Malaysia Cyber Defacer|https://t.me/malaysiadefacers|||
+|H4x0r Umbarella Corp H.U.C|https://t.me/Prisonmaniaccyberteam199|||
+|PADANG SYSTEM ERROR|https://t.me/PadangSystemError|||
+|Esteem Restoration Evil|https://t.me/EsteemRestorationEvil|||
